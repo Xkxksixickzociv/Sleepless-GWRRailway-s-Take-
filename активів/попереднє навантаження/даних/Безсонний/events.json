@@ -1,0 +1,116 @@
+{
+	"song": {
+		"events": [
+			[
+				32000,
+				[
+					[
+						"Image Flash",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				32003.4722222222,
+				[
+					[
+						"Change Character",
+						"bf",
+						"markback"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Image Flash",
+						"black",
+						"2"
+					]
+				]
+			],
+			[
+				53336.8055555556,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar_crossed"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change Character",
+						"bf",
+						"mandelamadnessmark"
+					]
+				]
+			],
+			[
+				96003.4722222222,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tall"
+					]
+				]
+			],
+			[
+				96006.9444444444,
+				[
+					[
+						"Replace stage layer",
+						"nothing",
+						"tablething"
+					]
+				]
+			],
+			[
+				96010.4166666666,
+				[
+					[
+						"stage test",
+						"bedroomhalf",
+						""
+					]
+				]
+			],
+			[
+				166666.666666667,
+				[
+					[
+						"Replace stage layer",
+						"nothing",
+						"bedroombars"
+					]
+				]
+			],
+			[
+				166670.138888889,
+				[
+					[
+						"Change Character",
+						"bf",
+						"gunshot"
+					]
+				]
+			],
+			[
+				166673.611111111,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0.05"
+					]
+				]
+			]
+		]
+	}
+}
