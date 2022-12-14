@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-300,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gunshot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gunshot",
+	"position": [
+		-725,
+		-170
+	],
+	"healthicon": "mandelamadnessmark",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		24,
+		103
+	],
+	"camera_position": [
+		-490,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

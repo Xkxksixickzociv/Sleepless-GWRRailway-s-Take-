@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MISS UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cesar_Assets_crossed",
+	"position": [
+		-20,
+		120
+	],
+	"healthicon": "cesar_crossed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-440,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

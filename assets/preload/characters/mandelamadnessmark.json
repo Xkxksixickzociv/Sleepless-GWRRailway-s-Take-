@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE instance"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RIGHTPOSE instance"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UPPOSE instance"
+		},
+		{
+			"offsets": [
+				0,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWNPOSE instance"
+		},
+		{
+			"offsets": [
+				-10,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LEFTPOSE instance"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "RIGHTPOSEALT instance"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UPPOSEALT instance"
+		},
+		{
+			"offsets": [
+				0,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DOWNPOSEALT instance"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "LEFTPOSEALT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/markposes",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mandelamadnessmark",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		24,
+		103
+	],
+	"camera_position": [
+		-490,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
